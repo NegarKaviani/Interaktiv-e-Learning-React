@@ -1,0 +1,18 @@
+.contact-box .title
+{
+    font-size: .75rem;
+    color: #7e7e7e;
+}
+.contact-box .person{
+    font-size: .7rem;
+    color: #7e7e7e;
+}
+.course-name{
+    font-size: 1.1rem;
+}
+.contact-box .info{
+    font-size: .75rem;
+}
+.duration-text{
+    font-size: .83rem;
+}
