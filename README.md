@@ -1,6 +1,6 @@
 # E-Learning Courses
 
-This project let you download and watch online courses in e-Learning field. 
+This project let you download and watch online courses in e-Learning fields. 
 
 ## Available Scripts
 
