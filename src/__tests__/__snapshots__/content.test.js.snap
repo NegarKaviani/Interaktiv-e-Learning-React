@@ -1,0 +1,328 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List renders successfully 1`] = `
+<div>
+  <div
+    className="course-card bg-white pt-7 px-4 lg:pl-0 lg:pr-6 flex flex-col lg:flex-row items-start mb-5"
+  >
+    <div
+      className="logo mx-auto w-24 h-16 lg:h-12"
+    >
+      <img
+        alt=""
+        className="w-full h-full object-contain"
+        src="fraud_prevention.png"
+      />
+    </div>
+    <div
+      className="courses-info w-full lg:w-10/12"
+    >
+      <div
+        className="course-detail flex gap-6 mb-7"
+      >
+        <p
+          className="course-name w-9/12 text-lg leading-6 text-zinc-500 font-bold "
+        >
+          Intensification of money Laundering prevention-private customer advice
+        </p>
+        <div
+          className="w-1/4"
+        >
+          <div
+            className="duration flex flex-col lg:flex-row justify-between"
+          >
+            <p
+              className="duration-text text-zinc-500"
+            >
+              30
+              min
+            </p>
+            <div
+              className="progress flex items-center gap-1.5"
+            >
+              <div
+                className="h-3 w-3 bg-yellow-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-yellow-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-yellow-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+            </div>
+          </div>
+          <div
+            className="duration-text text-zinc-500"
+          >
+            To be done by: 
+            March 14, 2024
+          </div>
+        </div>
+      </div>
+      <div
+        className="course-detail flex gap-6 mb-7"
+      >
+        <p
+          className="course-name w-9/12 text-lg leading-6 text-zinc-500 font-bold "
+        >
+           Basic Training - Preventation of Money Laundering and Terrorist Financing(V3.0)
+        </p>
+        <div
+          className="w-1/4"
+        >
+          <div
+            className="duration flex flex-col lg:flex-row justify-between"
+          >
+            <p
+              className="duration-text text-zinc-500"
+            >
+              44
+              min
+            </p>
+            <div
+              className="progress flex items-center gap-1.5"
+            >
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+            </div>
+          </div>
+          <div
+            className="duration-text text-zinc-500"
+          >
+            To be done by: 
+            -
+          </div>
+        </div>
+      </div>
+      <div
+        className="course-detail flex gap-6 mb-7"
+      >
+        <p
+          className="course-name w-9/12 text-lg leading-6 text-zinc-500 font-bold "
+        >
+           Advanced Training - Preventation of Money Laundering and Terrorist Financing(V3.0)
+        </p>
+        <div
+          className="w-1/4"
+        >
+          <div
+            className="duration flex flex-col lg:flex-row justify-between"
+          >
+            <p
+              className="duration-text text-zinc-500"
+            >
+              22
+              min
+            </p>
+            <div
+              className="progress flex items-center gap-1.5"
+            >
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+            </div>
+          </div>
+          <div
+            className="duration-text text-zinc-500"
+          >
+            To be done by: 
+            -
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="course-card bg-white pt-7 px-4 lg:pl-0 lg:pr-6 flex flex-col lg:flex-row items-start mb-5"
+  >
+    <div
+      className="logo mx-auto w-24 h-16 lg:h-12"
+    >
+      <img
+        alt=""
+        className="w-full h-full object-contain"
+        src="it_security.png"
+      />
+    </div>
+    <div
+      className="courses-info w-full lg:w-10/12"
+    >
+      <div
+        className="course-detail flex gap-6 mb-7"
+      >
+        <p
+          className="course-name w-9/12 text-lg leading-6 text-zinc-500 font-bold "
+        >
+          IT Security Basics(V1.01.3)
+        </p>
+        <div
+          className="w-1/4"
+        >
+          <div
+            className="duration flex flex-col lg:flex-row justify-between"
+          >
+            <p
+              className="duration-text text-zinc-500"
+            >
+              40
+              min
+            </p>
+            <div
+              className="progress flex items-center gap-1.5"
+            >
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+            </div>
+          </div>
+          <div
+            className="duration-text text-zinc-500"
+          >
+            To be done by: 
+            March 14, 2024
+          </div>
+        </div>
+      </div>
+      <div
+        className="course-detail flex gap-6 mb-7"
+      >
+        <p
+          className="course-name w-9/12 text-lg leading-6 text-zinc-500 font-bold "
+        >
+          Basic training It security and information security (V1.0)
+        </p>
+        <div
+          className="w-1/4"
+        >
+          <div
+            className="duration flex flex-col lg:flex-row justify-between"
+          >
+            <p
+              className="duration-text text-zinc-500"
+            >
+              60
+              min
+            </p>
+            <div
+              className="progress flex items-center gap-1.5"
+            >
+              <div
+                className="h-3 w-3 bg-yellow-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-yellow-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-yellow-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+            </div>
+          </div>
+          <div
+            className="duration-text text-zinc-500"
+          >
+            To be done by: 
+            -
+          </div>
+        </div>
+      </div>
+      <div
+        className="course-detail flex gap-6 mb-7"
+      >
+        <p
+          className="course-name w-9/12 text-lg leading-6 text-zinc-500 font-bold "
+        >
+           Advanced training It security and information security (V1.1)
+        </p>
+        <div
+          className="w-1/4"
+        >
+          <div
+            className="duration flex flex-col lg:flex-row justify-between"
+          >
+            <p
+              className="duration-text text-zinc-500"
+            >
+              29
+              min
+            </p>
+            <div
+              className="progress flex items-center gap-1.5"
+            >
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+              <div
+                className="h-3 w-3 bg-zinc-300 rounded-full"
+              />
+            </div>
+          </div>
+          <div
+            className="duration-text text-zinc-500"
+          >
+            To be done by: 
+            -
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
