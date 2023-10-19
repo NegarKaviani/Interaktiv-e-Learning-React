@@ -1,8 +1,16 @@
+import './App.css';
 import Header from './components/header';
 import Breadcrumbs from './components/breadcrumbs';
 import MainContent from './components/content';
+import { useEffect } from 'react';
+import './styles.less';
 
 function App() {
+
+  useEffect(() => {
+    document.title = "e-Learnning"
+  }, []);
+  
   return (
     <div className="App bg-gray-100">
       <Header />
